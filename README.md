@@ -32,6 +32,16 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>
 </div>
 
+---
+
+### :medal_sports: Сертификаты:
+
+Так же я получал различные сертификаты по разным языкам. Ниже собраны актуальные сертификаты на данный момент.
+
+[W3Docs HTML Сертификат](https://ru.w3docs.com/quiz/certificate/6/70/1702576032/Igor%20Molchanov/638eacad3c2142533a8005ede7460199)
+
+[W3Docs CSS Сертификат](https://ru.w3docs.com/quiz/certificate/8/90/1702575421/Igor%20Molchanov/304c11f613bc42bfa56ad96c260670cf)
+
 <!--
 **TsipaPte/TsipaPte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
