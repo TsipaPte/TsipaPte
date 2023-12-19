@@ -42,6 +42,8 @@
 
 [W3Docs CSS Сертификат](https://ru.w3docs.com/quiz/certificate/8/90/1702575421/Igor%20Molchanov/304c11f613bc42bfa56ad96c260670cf)
 
+[TestDome HTML/CSS Сертификат](https://testdome.com/certificates/568bcae155464db5824e2eccd0608fc8)
+
 <!--
 **TsipaPte/TsipaPte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
