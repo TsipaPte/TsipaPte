@@ -13,11 +13,11 @@
 У меня есть мои социальные сети, которым я пользуюсь и в случаи чего, вы можете со мной связаться. Ниже вы видите мои социальные сети. Если вы хотите со мной связаться лучше используйте Telegramm, потому что так я быстрее отвечаю, хотя VK тоже можно использовать.
 
 <a href="https://t.me/Tsipa_Squeak" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="Telegram" />
+      <img src="https://img.shields.io/badge/Telegram-333333?style=for-the-badge&logo=telegram&logoColor=blue"/>
 </a>
 
 <a href="https://vk.com/id734933708" target="_blank">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/VK.com-logo.svg" width="40" height="40" alt="VK" />
+      <img src="https://img.shields.io/badge/VK-333333?style=for-the-badge&logo=vk&logoColor=blue"/>
 </a>
 
 ---
@@ -27,9 +27,9 @@
 Здесь описаны все IT-Технологии которыми я пользуюсь/изучаю.
 
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/HTML-333333?style=for-the-badge&logo=html5&logoColor=red"/>
+  <img src="https://img.shields.io/badge/CSS-333333?style=for-the-badge&logo=css3&logoColor=blue"/>
+  <img src="https://img.shields.io/badge/JavaScript-333333?style=for-the-badge&logo=javascript&logoColor=yellow"/>
 </div>
 
 ---
