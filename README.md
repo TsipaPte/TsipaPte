@@ -44,6 +44,8 @@
 
 [TestDome HTML/CSS Сертификат](https://testdome.com/certificates/568bcae155464db5824e2eccd0608fc8)
 
+[TestDome Web-Testing Сертификат](https://www.testdome.com/certificates/f33633e8c4a640fe8fac38ebcd48a87f)
+
 <!--
 **TsipaPte/TsipaPte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
