@@ -46,6 +46,10 @@
       <img src="https://img.shields.io/badge/404-333333?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
+<a href="https://github.com/TsipaPte/Feedback" target="_blank">
+      <img src="https://img.shields.io/badge/Feedback-333333?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
 ---
 
 ### :medal_sports: Сертификаты:
