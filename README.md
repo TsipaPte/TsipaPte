@@ -50,6 +50,10 @@
       <img src="https://img.shields.io/badge/Feedback-333333?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
+<a href="https://github.com/TsipaPte/Blog" target="_blank">
+      <img src="https://img.shields.io/badge/Blog-333333?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
 ---
 
 ### :medal_sports: Сертификаты:
