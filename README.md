@@ -58,6 +58,10 @@
       <img src="https://img.shields.io/badge/Portfolio-333333?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
+<a href="https://github.com/TsipaPte/Hacker-Club" target="_blank">
+      <img src="https://img.shields.io/badge/Hacker Club-333333?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
 ---
 
 ### :medal_sports: Сертификаты:
