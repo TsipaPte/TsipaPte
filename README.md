@@ -36,36 +36,6 @@
 
 ---
 
-### :book: Репозитории:
-
-В данном разделе описаны все мои рабочие проекты. Здесь собраны абсолютно все проекты связанные с Front-End разработкой. Данные проекты вы можете использовать в своих проектах, кусках кода либо в ваших любых других задачах.
-
-<a href="https://github.com/TsipaPte/Authorization/" target="_blank">
-      <img src="https://img.shields.io/badge/Authorization-333333?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://github.com/TsipaPte/404" target="_blank">
-      <img src="https://img.shields.io/badge/404-333333?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://github.com/TsipaPte/Feedback" target="_blank">
-      <img src="https://img.shields.io/badge/Feedback-333333?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://github.com/TsipaPte/Blog" target="_blank">
-      <img src="https://img.shields.io/badge/Blog-333333?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://github.com/TsipaPte/Portfolio" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-333333?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://github.com/TsipaPte/Hacker-Club" target="_blank">
-      <img src="https://img.shields.io/badge/Hacker Club-333333?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
----
-
 ### :medal_sports: Сертификаты:
 
 Так же я получал различные сертификаты по разным языкам. Ниже собраны все актуальные сертификаты на данный момент.
