@@ -30,6 +30,8 @@
   <img src="https://img.shields.io/badge/HTML-333333?style=for-the-badge&logo=html5&logoColor=red"/>
   <img src="https://img.shields.io/badge/CSS-333333?style=for-the-badge&logo=css3&logoColor=blue"/>
   <img src="https://img.shields.io/badge/JavaScript-333333?style=for-the-badge&logo=javascript&logoColor=yellow"/>
+  <img src="https://img.shields.io/badge/Linux-333333?style=for-the-badge&logo=linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bash-333333?style=for-the-badge&logo=gnubash&logoColor=white"/>
 </div>
 
 ---
