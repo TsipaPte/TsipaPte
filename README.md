@@ -8,20 +8,6 @@
 
 ---
 
-### :mailbox: Связаться со мной:
-
-У меня есть мои социальные сети, которым я пользуюсь и в случаи чего, вы можете со мной связаться. Ниже вы видите мои социальные сети. Если вы хотите со мной связаться лучше используйте Telegram, потому что так я быстрее отвечаю, хотя VK тоже можно использовать.
-
-<a href="https://t.me/Tsipa_Squeak" target="_blank">
-      <img src="https://img.shields.io/badge/Telegram-333333?style=for-the-badge&logo=telegram&logoColor=blue"/>
-</a>
-
-<a href="https://vk.com/id734933708" target="_blank">
-      <img src="https://img.shields.io/badge/VK-333333?style=for-the-badge&logo=vk&logoColor=blue"/>
-</a>
-
----
-
 ### :computer: Технологии:
 
 Здесь описаны все IT-Технологии которыми я пользуюсь/изучаю.
