@@ -1,13 +1,3 @@
-<div>
-  <img src="https://img.shields.io/badge/Python-856a21?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GNU/Linux-333333?style=for-the-badge&logo=linux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kali_Linux-4756ad?style=for-the-badge&logo=kalilinux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML-red?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GIT-f05133?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</div>
 <!--
 **TsipaPte/TsipaPte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
